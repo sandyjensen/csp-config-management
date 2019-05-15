@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: shipping-test
+  name: shipping-test-wrong-name
